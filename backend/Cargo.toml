@@ -1,4 +1,9 @@
 [package]
+
+# When you change the name of package to something else, you will also need to change the name in 
+# the build, dev and start scripts so it's better for you to search for the default name of package 
+# globaly in your editor and replace it with your package name.
+
 name = "backend"
 version = "0.1.0"
 edition = "2024"
